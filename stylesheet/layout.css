@@ -43,15 +43,6 @@ body {
   margin: 0;
 }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-  text-align: center;
-  background: #305B81;
-  font-size: 20px;
-
-  width: 100%;
-}
 
 .spacer {
   height: 20px;
@@ -64,19 +55,10 @@ a:hover {
   background-color: grey;
 }
 
-.navbar-nav {
-    background-color: #323538!important;
+.center {
+  text-align: center;
+  list-style-position: inside;
 }
 
-.ol {
-   display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    }
-.ul {
-   display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    }
 
 
